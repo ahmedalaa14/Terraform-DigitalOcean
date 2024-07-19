@@ -1,6 +1,6 @@
 # Create Ubuntu Droplet on DigitalOcean
 
-This `Terraform` project is to build `Ubuntu` Droplet on DigitalOcean
+- This `Terraform` project is to build `Ubuntu` Droplet on DigitalOcean
 
 ### Step 1: After Signing up create `New-Project`
 
